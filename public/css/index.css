@@ -290,5 +290,9 @@ code:not([class*="language-"]) {
 	/* font-family: $monospace; */
 	/* font-size: 1.8rem; */
 	overflow-wrap: anywhere;
-	padding-inline: 0.5rem;
+	padding-inline: 0.3rem;
+}
+
+h1 {
+	border-bottom: 5px solid darkmagenta;
 }
