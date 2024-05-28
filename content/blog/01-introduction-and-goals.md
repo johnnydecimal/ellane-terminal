@@ -1,10 +1,13 @@
 ---
-title: Goals
-description: This is a post on My Blog about agile frameworks.
-date: 2024-05-28T03:57:17
+title: Introduction & goals
+description: What's this, and why are we here?
+author: Ellane & Johnny
+date: 2024-05-28T01:00:00
 tags:
-  - another tag
+  # - introduction
 ---
+
+We'll fill this out a bit with why here here and so on.
 
 > I want to —
 >

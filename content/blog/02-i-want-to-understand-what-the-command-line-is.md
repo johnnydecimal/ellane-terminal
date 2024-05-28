@@ -2,9 +2,9 @@
 title: I want to understand what the command line is
 description: This is a post on My Blog about leveraging agile frameworks.
 author: Johnny
-date: 2024-05-28T03:57:38
+date: 2024-05-28T02:00:00
 tags:
-  - concept
+  - concept, language
 ---
 
 Your computer has many 'languages', or ways of 'thinking', internally.
