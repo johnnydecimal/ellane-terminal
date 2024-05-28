@@ -7,11 +7,11 @@ layout: layouts/base.njk
 <h1>{{ title }}</h1>
 
 <ul class="post-metadata">
-	<li>By <strong>{{ author }}</strong></li>
-	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
-	{%- for tag in tags | filterTagList %}
+	<li>By <strong>{{ author }}</strong> ~&nbsp;</li>
+	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time> ~&nbsp;</li>
+	<li>Tags: {%- for tag in tags | filterTagList %}
 	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-	<li>Tags: <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
+	<a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
 	{%- endfor %}
 </ul>
 

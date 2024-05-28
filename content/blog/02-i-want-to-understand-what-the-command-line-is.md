@@ -4,7 +4,8 @@ description: This is a post on My Blog about leveraging agile frameworks.
 author: Johnny
 date: 2024-05-28T02:00:00
 tags:
-  - concept, language
+  - concept
+  - language
 ---
 
 Your computer has many 'languages', or ways of 'thinking', internally.
@@ -44,7 +45,7 @@ If we keep going, we can abstract away this idea of languages entirely, and end 
 
 So why would you ever use a lower-level language when you can just go around clicking buttons?
 
-# Control
+## Control
 
 You can click a button because some designer in Seattle designed the program to have a button.
 
@@ -55,3 +56,9 @@ What if you want more granular control? What if there isn't a button for the thi
 Because at the end of the day, that button passed a command to a high-level language which translated it and passed it down to a lower-level language which translated it to assembly which your computer translated to ones and zeros which is all it can understand.
 
 So if you can insert yourself in that chain, if you can start talking some of these higher-level languages, you can get more control. You can do whatever you want.
+
+---
+
+# Homework
+
+Do a bit of reading on [abstraction layers](https://en.wikipedia.org/wiki/Abstraction_layer). But you don't need to go deep on theory here, as long as you've got the idea we'll move on.

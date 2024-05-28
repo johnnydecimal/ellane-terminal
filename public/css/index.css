@@ -249,11 +249,11 @@ header {
 	/* margin-right: 1em; */
 }
 /* Johnny: this is new */
-.post-metadata > li:not(:last-child)::after {
+/* .post-metadata > li:not(:last-child)::after {
 	content: "~";
 	margin-left: 10px;
 	margin-right: 10px;
-}
+} */
 
 /* Direct Links / Markdown Headers */
 .header-anchor {
@@ -302,5 +302,21 @@ code:not([class*="language-"]) {
 }
 
 h1 {
-	border-bottom: 5px solid darkmagenta;
+	border-bottom: 5px solid yellowgreen;
+}
+h2 {
+	border-bottom: 3px solid yellowgreen;
+}
+
+hr {
+	border: 0;
+	margin: 10px;
+}
+hr::before {
+	color: yellowgreen;
+	content: "* * *";
+	display: block;
+	/* font-family: $monospace; */
+	font-size: 20px;
+	text-align: center;
 }
