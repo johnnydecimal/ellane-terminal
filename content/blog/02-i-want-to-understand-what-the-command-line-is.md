@@ -43,7 +43,7 @@ If we keep going, we can abstract away this idea of languages entirely, and end 
 
 {% image "./img/02.01-mess-error-image9.png", "A possum parent and two possum kids hanging from the iconic red balloon" %}
 
-So why would you ever use a lower-level language when you can just go around clicking buttons?
+So why would you bother learning a language when you can just go around clicking buttons?
 
 ## Control
 
