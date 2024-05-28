@@ -57,8 +57,12 @@ Because at the end of the day, that button passed a command to a high-level lang
 
 So if you can insert yourself in that chain, if you can start talking some of these higher-level languages, you can get more control. You can do whatever you want.
 
+**The command line is how you talk to your computer in a high-level language.**
+
+Next, I'll explain which language this is.
+
 ---
 
 # Homework
 
-Do a bit of reading on [abstraction layers](https://en.wikipedia.org/wiki/Abstraction_layer). But you don't need to go deep on theory here, as long as you've got the idea we'll move on.
+Do a bit of reading on [abstraction layers](https://en.wikipedia.org/wiki/Abstraction_layer). But you don't need to go deep on theory here: as long as you've got the idea, we'll move on.
