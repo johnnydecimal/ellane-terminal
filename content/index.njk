@@ -13,7 +13,7 @@ numberOfLatestPostsToShow: 20
 
 <p>Johnny is teaching Ellane how to use the command line, from scratch. Join us!</p>
 
-<p>The latest posts are at the top. If you're new here, start <a href="/blog/01-introduction-and-goals/">at the first post</a> and work your way up.</p>
+<p>The latest posts are at the top. If you're new here, start <a href="/learn/01-introduction-and-goals/">at the first post</a> and work your way up.</p>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
@@ -21,7 +21,7 @@ numberOfLatestPostsToShow: 20
 
 {% set morePosts = postsCount - numberOfLatestPostsToShow %}
 {% if morePosts > 0 %}
-<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
+<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/learn/">the archive</a>.</p>
 {% endif %}
 
 {# List every content page in the project #}
