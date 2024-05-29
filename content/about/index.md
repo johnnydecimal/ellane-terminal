@@ -30,3 +30,7 @@ On Mastodon, [Ellane](https://pkm.social/@ellane) mentioned that she'd like to '
 > - what's Homebrew, and why use it and what does it do, and how does it do it
 
 And so that's what we're going to do here. From zero to hero: I'm going to teach Ellane the command line.
+
+We'll do it all live on Mastodon, with every post then mirrored here. This site has an RSS feed ([XML](https://commandline.johnnydecimal.com/feed/feed.xml), [JSON](https://commandline.johnnydecimal.com/feed/feed.json)) which your reader should detect.
+
+So follow along however you want.
