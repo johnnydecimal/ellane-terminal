@@ -1,6 +1,6 @@
 ---
-title: I want to understand what the command line is
-description: This is a post on My Blog about leveraging agile frameworks.
+title: What is the command line?
+description: A very high-level introduction to the command line. What even is it? Why would we use it?
 author: Johnny
 date: 2024-05-28T02:00:00
 tags:
@@ -10,11 +10,11 @@ tags:
 
 Your computer has many 'languages', or ways of 'thinking', internally.
 
-The phrase '(it's all just) [ones and zeroes](https://en.wiktionary.org/wiki/ones_and_zeroes)' represents the fact that, at its very lowest level, your computer is literally just passing around data that looks like `1010111110101000100111010010110010`.
+The phrase '(it's all just) [ones and zeroes](https://en.wiktionary.org/wiki/ones_and_zeroes)' represents the fact that, at its very lowest level, your computer is literally just passing around information that looks like `1010111110101000100111010010110010`.
 
 (It's made of transistors, and they can only be on `1` or off `0`.)
 
-That's not very friendly for us humans, so over the years we've abstracted away from `1010111...` by creating _higher-level_ languages. The next-least-complicated language is called **assembly**.[^assembly]
+That's not very friendly for us humans, so over the years we've abstracted away from `1010111...` by creating **higher-level languages.** The next-least-complicated language is called **assembly**.[^assembly]
 
 [^assembly]: This is not a scientifically complete list of computer languages.
 
@@ -27,7 +27,7 @@ LDA #$08
 STA $0202
 ```
 
-Okay, still not what you'd call friendly. Let's try some JavaScript: a higher-level language than assembly.
+Okay, still not what you'd call friendly. Let's try some **JavaScript:** a higher-level language than assembly.
 
 ```js
 const firstname = "Johnny";
@@ -41,7 +41,7 @@ Better! You don't have to know JavaScript to at least guess what that's going to
 
 If we keep going, we can abstract away this idea of languages entirely, and end up with the **graphical user interface,** or **GUI.**
 
-{% image "./img/02.01-mess-error-image9.png", "A possum parent and two possum kids hanging from the iconic red balloon" %}
+<img src="/img/02.01-mess-error-image9-398x191.png" width="398" height="191" />
 
 So why would you bother learning a language when you can just go around clicking buttons?
 
@@ -49,7 +49,7 @@ So why would you bother learning a language when you can just go around clicking
 
 You can click a button because some designer in Seattle designed the program to have a button.
 
-What if you want more granular control? What if there isn't a button for the thing you want to do?
+But what if you want more granular control? What if there isn't a button for the thing you want to do?
 
 **Then you crack open the command line.**
 
@@ -59,7 +59,7 @@ So if you can insert yourself in that chain, if you can start talking some of th
 
 **The command line is how you talk to your computer in a high-level language.**
 
-Next, I'll explain which language this is.
+Next, I'll explain how you do that.
 
 ---
 

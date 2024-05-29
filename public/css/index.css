@@ -16,9 +16,9 @@
 	--background-color: #fff;
 
 	--text-color: var(--color-gray-90);
-	--text-color-link: #082840;
-	--text-color-link-active: #5f2b48;
-	--text-color-link-visited: #17050f;
+	--text-color-link: #068391;
+	--text-color-link-active: yellowgreen;
+	--text-color-link-visited: #02520f;
 
 	--syntax-tab-size: 2;
 }
@@ -282,7 +282,7 @@ h2 + .header-anchor {
 /* -------------------------- Johnny's custom stuff ------------------------- */
 
 blockquote {
-	border-left: 5px solid lime;
+	border-left: 5px solid yellowgreen;
 	margin: 10px 10px 10px 0;
 }
 blockquote > p {
@@ -290,11 +290,11 @@ blockquote > p {
 }
 
 code:not([class*="language-"]) {
-	background-color: lightyellow;
-	border: 1px dotted orangered;
-	border-bottom: 2px solid orangered;
+	background-color: rgba(245, 250, 235, 0.056);
+	border: 1px dotted yellowgreen;
+	border-bottom: 2px solid yellowgreen;
 	border-radius: 2px;
-	color: brown;
+	color: rgb(49, 62, 27);
 	/* font-family: $monospace; */
 	/* font-size: 1.8rem; */
 	overflow-wrap: anywhere;
@@ -314,9 +314,14 @@ hr {
 }
 hr::before {
 	color: yellowgreen;
-	content: "* * *";
+	content: "≡";
 	display: block;
 	/* font-family: $monospace; */
-	font-size: 20px;
+	font-size: 16px;
 	text-align: center;
+}
+
+img {
+	height: auto;
+	max-width: 100%;
 }
