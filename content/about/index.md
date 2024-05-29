@@ -27,10 +27,18 @@ On Mastodon, [Ellane](https://pkm.social/@ellane) mentioned that she'd like to '
 > - learn how not to stuff up your machine
 > - learn what language it speaks
 > - understand what commands DO, where things go
-> - what's Homebrew, and why use it and what does it do, and how does it do it
+> - know what Homebrew is, why people use it, what it does, and how it does it.
 
 And so that's what we're going to do here. From zero to hero: I'm going to teach Ellane the command line.
 
 We'll do it all [live on Mastodon](https://hachyderm.io/@johnnydecimal/112522237603931013), with every post then mirrored here. This site has an RSS feed ([XML](https://commandline.johnnydecimal.com/feed/feed.xml), [JSON](https://commandline.johnnydecimal.com/feed/feed.json)) which your reader should detect.
 
 So follow along however you want.
+
+---
+
+# To-do
+
+We knocked this together pretty quickly. All feedback is welcome. Johnny will keep the to-do list here.
+
+- Make the Mastodon link on each post nicer (CSS).
