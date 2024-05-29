@@ -66,3 +66,7 @@ Next, I'll explain how you do that.
 # Homework
 
 Do a bit of reading on [abstraction layers](https://en.wikipedia.org/wiki/Abstraction_layer). But you don't need to go deep on theory here: as long as you've got the idea, we'll move on.
+
+---
+
+[Mastodon post](https://hachyderm.io/@johnnydecimal/112522242814458489).
