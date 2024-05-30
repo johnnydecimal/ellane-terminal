@@ -42,3 +42,4 @@ So follow along however you want.
 We knocked this together pretty quickly. All feedback is welcome. Johnny will keep the to-do list here.
 
 - Make the Mastodon link on each post nicer (CSS).
+- Optionally dim some images (e.g. white screenshots) when in dark mode.

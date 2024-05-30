@@ -282,8 +282,9 @@ h2 + .header-anchor {
 /* -------------------------- Johnny's custom stuff ------------------------- */
 
 blockquote {
+	border: 1px dotted var(--text-color-link-active);
 	border-left: 5px solid var(--text-color-link-active);
-	margin: 10px 10px 10px 0;
+	margin: 1rem 1rem 1rem 0;
 }
 blockquote > p {
 	margin-left: 10px;
@@ -296,20 +297,23 @@ code:not([class*="language-"]) {
 	color: var(--text-color-link-visited);
 	/* font-family: $monospace; */
 	/* font-size: 1.8rem; */
-	overflow-wrap: anywhere;
+	/* overflow-wrap: normal; */
 	padding-inline: 0.3rem;
+	white-space: pre;
 }
 
 h1 {
 	border-bottom: 5px solid var(--text-color-link-active);
+	margin-top: 2.5rem;
 }
 h2 {
 	border-bottom: 3px solid var(--text-color-link-active);
+	margin-top: 2rem;
 }
 
 hr {
 	border: 0;
-	margin: 10px;
+	margin: 2.5rem 0;
 }
 hr::before {
 	color: var(--text-color-link-active);

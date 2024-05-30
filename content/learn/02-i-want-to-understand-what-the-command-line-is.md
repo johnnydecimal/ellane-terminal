@@ -41,7 +41,12 @@ Better! You don't have to know JavaScript to at least guess what that's going to
 
 If we keep going, we can abstract away this idea of languages entirely, and end up with the **graphical user interface,** or **GUI.**
 
-<img src="/img/02.01-mess-error-image9-398x191.png" width="398" height="191" />
+<img
+  src="/img/02.01-mess-error-image9-398x191.png"
+  alt="A Windows error dialog that reads 'An error occurred while creating an error report'."
+  width="398"
+  height="191"
+/>
 
 So why would you bother learning a language when you can just go around clicking buttons?
 
