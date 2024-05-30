@@ -1,0 +1,4 @@
+# Plausible proxying https://plausible.io/docs/proxy/guides/netlify
+
+/js/script.js https://plausible.io/js/script.js 200
+/api/event https://plausible.io/api/event 200
