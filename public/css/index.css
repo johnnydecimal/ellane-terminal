@@ -109,7 +109,8 @@ header:after {
 
 .links-nextprev {
 	list-style: none;
-	border-top: 1px dashed var(--color-gray-20);
+	/* border-top: 1px dashed var(--color-gray-20); */
+	border-top: 1px dotted var(--text-color-link-active);
 	padding: 1em 0;
 }
 
@@ -289,6 +290,9 @@ blockquote {
 blockquote > p {
 	margin-left: 10px;
 }
+blockquote > ul {
+	margin-top: 1em;
+}
 
 code:not([class*="language-"]) {
 	border: 1px dotted var(--text-color-link-active);
@@ -311,11 +315,11 @@ h2 {
 	margin-top: 2rem;
 }
 
-hr {
+hr:not(.footnotes-sep) {
 	border: 0;
 	margin: 2.5rem 0;
 }
-hr::before {
+hr:not(.footnotes-sep)::before {
 	color: var(--text-color-link-active);
 	content: "≡";
 	display: block;
@@ -323,10 +327,19 @@ hr::before {
 	font-size: 16px;
 	text-align: center;
 }
+hr.footnotes-sep {
+	border: 0;
+	border-top: 1px dotted var(--text-color-link-active);
+	margin-top: 1.5rem;
+}
 
 img {
 	height: auto;
 	max-width: 100%;
+}
+
+ol.footnotes-list {
+	margin: 1.5rem 0;
 }
 
 .postlist-item > p.author {

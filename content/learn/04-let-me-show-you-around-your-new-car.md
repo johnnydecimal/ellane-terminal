@@ -5,6 +5,7 @@ author: Johnny
 date: 2024-05-30T02:55:39
 tags:
   - concept
+mastodon: https://hachyderm.io/@johnnydecimal/112528341522448076
 ---
 
 Oh good analogy! That's going to be helpful.
