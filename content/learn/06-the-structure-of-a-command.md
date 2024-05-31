@@ -6,7 +6,7 @@ date: 2024-05-31T06:03:06
 tags:
   - command
   - concept
-mastodon: http************
+mastodon: https://hachyderm.io/@johnnydecimal/112534707001215876
 ---
 
 ## Feedback on homework
