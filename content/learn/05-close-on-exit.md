@@ -12,7 +12,7 @@ mastodon: https://pkm.social/@ellane/112528946316189230
 
 > Figure out how to make it so that when you type `logout`, the window closes.
 
-I poked around in Settings, and found an option under Shell called **When the shell exits**. The default behaviour was **Don’t close the window**, which was just the clue I needed!
+I poked around in **Settings**, and found an option under **Shell** called **When the shell exits**. The default behaviour was **Don’t close the window**, which was just the clue I needed!
 
 As I’d hoped, **Close the window** was also an option in the drop down list.
 

@@ -288,7 +288,8 @@ blockquote {
 	margin: 1rem 1rem 1rem 0;
 }
 blockquote > p {
-	margin-left: 10px;
+	margin-left: 1em;
+	padding: 0.5em;
 }
 blockquote > ul {
 	margin-top: 1em;
