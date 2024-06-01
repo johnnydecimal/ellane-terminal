@@ -95,7 +95,7 @@ ls ~/../john/Desktop/TestFolder/../../././Downloads
 `# lists the chaos of my Downloads folder`
 ```
 
-Note that my username is `john`. Substitute for yours: if you're not sure what it is, `whoami` 🟢 will show it.
+Note that my username is `john`. Substitute for yours: if you're not sure what it is, `whoami` 🟢 will show it. In these lessons I assume it's `ellane`.
 
 Make sure you understand _why_ this works. Make some of your own crazy file paths just for practice.
 
