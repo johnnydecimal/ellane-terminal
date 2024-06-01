@@ -6,7 +6,7 @@ date: 2024-06-01T06:34:46
 tags:
   - command
   - filesystem
-mastodon: https://********
+mastodon: https://hachyderm.io/@johnnydecimal/112539983064670810
 ---
 
 You stumbled in to a [meme](https://thenewstack.io/how-do-you-exit-vim-a-newbie-question-turned-tech-meme/)! What are the odds.
