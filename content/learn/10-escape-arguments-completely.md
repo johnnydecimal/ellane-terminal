@@ -6,7 +6,7 @@ date: 2024-06-03T20:59:57
 tags:
   - concept
   - filesystem
-mastodon: https://pkm.social/@ellane/112549360746816133
+mastodon: https://hachyderm.io/@johnnydecimal/112554827738611196
 ---
 
 Let's use these annoying spaces to go a little deeper on the concept of **arguments**.
