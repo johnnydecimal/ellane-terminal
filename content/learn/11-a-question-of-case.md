@@ -33,7 +33,9 @@ Classic error! Okay, I've named the folder correctly now. The answer is, you use
 
 # Is case important?
 
-Question: is case important? It doesn't seem to be. I've noticed that `cd Desktop` returns `ellane@macbook-pro Desktop % `, while `cd desktop` returns `ellane@macbook-pro desktop %`. It's the same location each time, so I'll assume location names aren't case sensitive unless you tell me otherwise.
+Question: is case important? It doesn't seem to be. I've noticed that `cd Desktop` returns `ellane@macbook-pro Desktop % `, while `cd desktop` returns `ellane@macbook-pro desktop %`.
+
+It's the same location each time, so I'll assume location names aren't case sensitive unless you tell me otherwise.
 
 ## What's a tty?
 
