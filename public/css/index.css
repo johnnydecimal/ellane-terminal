@@ -289,6 +289,8 @@ blockquote {
 }
 blockquote > p {
 	margin-left: 1em;
+	margin-block-start: 0;
+	margin-block-end: 0;
 	padding: 0.5em;
 }
 blockquote > ul {
