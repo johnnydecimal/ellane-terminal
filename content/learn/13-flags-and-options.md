@@ -6,7 +6,7 @@ date: 2024-06-06T00:35:58
 tags:
   - command
   - concept
-mastodon: https://
+mastodon: https://hachyderm.io/@johnnydecimal/112567064682981016
 ---
 
 We almost understand the syntax of a command. To recap, we've met the **command**, and its (often optional) **arguments**.
