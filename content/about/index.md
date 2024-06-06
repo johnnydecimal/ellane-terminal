@@ -43,3 +43,11 @@ We knocked this together pretty quickly. All feedback is welcome. Johnny will ke
 
 - Optionally dim some images (e.g. white screenshots) when in dark mode.
 - ~~Make the Mastodon link on each post nicer (CSS).~~
+
+---
+
+# Later...
+
+A list of things that Johnny would like to talk about later.
+
+- [ttys](learn/12-case-and-ttys/): how you can `ps ax` and the column shows which `tty` owns the process.
