@@ -6,7 +6,7 @@ date: 2024-06-05T23:41:53
 tags:
   - concept
   - follow-up
-mastodon: https://*****
+mastodon: https://hachyderm.io/@johnnydecimal/112566833518091202
 ---
 
 ## Case-sensitivity
