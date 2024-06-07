@@ -16,4 +16,6 @@ On Mastodon, [Ellane](https://pkm.social/@ellane) mentioned that she'd like to '
 > - understand what commands DO, where things go
 > - know what Homebrew is, why people use it, what it does, and how it does it.
 
+Also she has a 'burning ambition to learn plain text accounting (hledger, specifically)'. So that's where we're headed.
+
 And so that's what we're going to do here. From zero to hero: I'm going to teach Ellane the command line.

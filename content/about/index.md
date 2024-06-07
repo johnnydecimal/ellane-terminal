@@ -29,6 +29,8 @@ On Mastodon, [Ellane](https://pkm.social/@ellane) mentioned that she'd like to '
 > - understand what commands DO, where things go
 > - know what Homebrew is, why people use it, what it does, and how it does it.
 
+Also she has a 'burning ambition to learn plain text accounting (hledger, specifically)'. So that's where we're headed.
+
 And so that's what we're going to do here. From zero to hero: I'm going to teach Ellane the command line.
 
 We'll do it all [live on Mastodon](https://hachyderm.io/@johnnydecimal/112522237603931013), with every post then mirrored here. This site has an RSS feed ([XML](https://commandline.johnnydecimal.com/feed/feed.xml), [JSON](https://commandline.johnnydecimal.com/feed/feed.json)) which your reader should detect.

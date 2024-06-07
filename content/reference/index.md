@@ -12,10 +12,20 @@ eleventyNavigation:
 - `c`hange `d`irectory.
 - Introduced: [06](/learn/06-the-structure-of-a-command/)
 
+## `less` 🟢
+
+- A file viewer; the opposite of `more`.
+- Introduced: [15](/learn/15-less-is-more/)
+
 ## `ls` 🟢
 
 - `l`i`s`t folder contents
 - Introduced: [06](/learn/06-the-structure-of-a-command/)
+
+## `man` 🟢
+
+- The built-in `man`ual pages.
+- Introduced: [15](/learn/15-less-is-more/)
 
 ## `pwd` 🟢
 
