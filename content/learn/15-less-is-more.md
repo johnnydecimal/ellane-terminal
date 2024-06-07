@@ -6,7 +6,7 @@ date: 2024-06-06T08:41:38
 tags:
   - command
   - concept
-mastodon: https://
+mastodon: https://hachyderm.io/@johnnydecimal/112573007010733810
 ---
 
 Great questions, and we'll get to `drwxr-xr-x` really soon.
