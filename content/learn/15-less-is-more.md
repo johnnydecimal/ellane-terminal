@@ -55,7 +55,7 @@ We'll use `less`, but if you see `more` in online instructions you can either us
 [^help]: If you're following along at home and you don't have a plain text file handy, you can launch `less --help` and use the help file to practice navigation.
 
 ```bash
-less path/to/your/file
+less yourfile
 ```
 
 ## It'll show the file
