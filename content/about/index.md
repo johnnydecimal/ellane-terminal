@@ -52,4 +52,5 @@ We knocked this together pretty quickly. All feedback is welcome. Johnny will ke
 
 A list of things that Johnny would like to talk about later.
 
-- [ttys](learn/12-case-and-ttys/): how you can `ps ax` and the column shows which `tty` owns the process.
+- [ttys](/learn/12-case-and-ttys/): how you can `ps ax` and the column shows which `tty` owns the process.
+- [alias](/learn/16-lots-of-feedback/): creating an alias to a deeply-nested folder (or other methods of getting there quickly).
