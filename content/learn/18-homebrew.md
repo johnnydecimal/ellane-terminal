@@ -5,7 +5,7 @@ author: Johnny
 date: 2024-07-01T07:42:16
 tags:
   - command
-mastodon: https://hachyderm.io/@johnnydecimal/112676220917130785
+mastodon: https://hachyderm.io/@johnnydecimal/112710278137050829
 ---
 
 Okay, let's turn in the direction of `hledger`. We're going to install it.
