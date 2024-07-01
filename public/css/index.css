@@ -141,9 +141,6 @@ pre:not([class*="language-"]) {
 	word-spacing: normal;
 	word-break: normal;
 }
-code {
-	word-break: break-all;
-}
 
 /* Header */
 header {
@@ -306,7 +303,9 @@ code:not([class*="language-"]) {
 	/* font-size: 1.8rem; */
 	/* overflow-wrap: normal; */
 	padding-inline: 0.3rem;
-	white-space: pre;
+	white-space: pre-wrap; /* Enable wrapping */
+	word-wrap: break-word; /* Break long words only when necessary */
+	overflow-wrap: break-word; /* Ensures compatibility */
 }
 
 h1 {
