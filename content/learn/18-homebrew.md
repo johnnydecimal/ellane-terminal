@@ -36,7 +36,7 @@ Okay, right there on the [home page](https://brew.sh). Simply copy paste this co
 
 # 🚨 🛑 ‼️ 🚨 🛑 ‼️
 
-Okay, a massive word of caution. Whenever someone, including me, tells you to 'simply copy/paste a command in to Terminal': **don't do that.**
+A massive word of caution. Whenever someone, including me, tells you to 'simply copy/paste a command in to Terminal': **don't do that.**
 
 By now you have an idea of what this thing can do. It's a window in to the deepest parts of your system. And so entering random commands from the internet is a massive, massive risk.
 
