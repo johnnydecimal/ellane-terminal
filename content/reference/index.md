@@ -7,6 +7,11 @@ eleventyNavigation:
 
 # Reference
 
+## `brew` 🟠
+
+- The [Brew package manager](https://brew.sh).
+- Introduced: [18](/learn/18-homebrew/)
+
 ## `cd` 🟢
 
 - `c`hange `d`irectory.
